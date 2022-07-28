@@ -1,5 +1,16 @@
+.button-color{
+    background-color: #289BDE;
+}
+
 @media only screen and (max-width: 992px) {
     .custom-responsive-center{
         text-align: center;
     }
+}
+.accordion{
+    --bs-accordion-active-bg: #289bde0e;
+    --bs-accordion-active-color: #4a4a4a;
+}
+.accordion-body, .accordion-body p{
+    text-align: justify;
 }
