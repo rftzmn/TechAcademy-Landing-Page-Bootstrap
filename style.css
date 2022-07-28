@@ -1,12 +1,5 @@
-/* .carousel-caption-position {
-    top: 35%;
-    bottom: auto;
-} */
-/* @media only screen and (max-width: 576px) {
-    .carousel-caption-position h1{
-      font-size: 16px;
-      }
-      .carousel-caption-position p{
-        font-size: 10px;
-      }
-} */
+@media only screen and (max-width: 992px) {
+    .custom-responsive-center{
+        text-align: center;
+    }
+}
