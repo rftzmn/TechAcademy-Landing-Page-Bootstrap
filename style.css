@@ -14,3 +14,6 @@
 .accordion-body, .accordion-body p{
     text-align: justify;
 }
+.modal-level{
+    text-align: left !important;
+}
